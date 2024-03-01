@@ -1,17 +1,13 @@
 package Statment_Brancch_coverage.Statment_Brancch_coverage;
 
-import static org.junit.Assert.assertTrue;
-
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-import org.junit.Test;
-
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class AppTest
 {
     /**
      * Rigorous Test :-)
